@@ -16,7 +16,7 @@ data['skill_list'] = data['Skills'].apply(lambda x: x.split('|'))
 st.title('Job Portal: Candidate Ranking System')
 st.markdown("### Search for candidates based on skills")
 
-st.write("Skills in the database be like - 'Python, Java, C++, JavaScript")
+st.write("Skills in the database be like - 'Python,  Java,  C++,  JavaScript")
 st.write("After entering the skill hit enter")
 
 search_skill = st.text_input('Enter the skill to search for:', '')
