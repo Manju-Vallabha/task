@@ -22,6 +22,8 @@ Ensure you have the following installed:
 - Pandas
 - LightGBM
 
+
+
 ## Ranking Algorithms in Machine Learning
 
 ### LightGBM Ranking
@@ -49,5 +51,49 @@ Ensure you have the following installed:
 ## How It Works
 
 In this project, LightGBM's `lambdarank` objective function is used to train a model that ranks candidates based on the number of relevant courses containing a specified skill. The ranking model is trained with features like the number of relevant courses and experience, and the results are evaluated using NDCG to ensure effective ranking.
+
+
+## Dataset
+
+### Description
+
+The dataset used in this project is a CSV file named `updated_skills_courses.csv`. It contains information about candidates, their skills, courses, and experience. The data is utilized to rank candidates based on their proficiency in a specified skill and their relevant course history.
+
+### Columns
+
+The dataset includes the following columns:
+
+1. **Name**: 
+   - **Type**: `str`
+   - **Description**: The name of the candidate.
+
+2. **Skills**: 
+   - **Type**: `str`
+   - **Description**: A list of skills possessed by the candidate, separated by a vertical bar (`|`). For example, `Python|Java|SQL`.
+
+3. **Courses**: 
+   - **Type**: `str`
+   - **Description**: A list of courses completed by the candidate, separated by a vertical bar (`|`). Each course title may include the relevant skills. For example, `Python Basics|Advanced Python Programming|Data Science with SQL`.
+
+4. **Experience**: 
+   - **Type**: `int`
+   - **Description**: The number of years of experience the candidate has in their field.
+
+### Example
+
+| Name   | Skills               | Courses                                            | Experience |
+|--------|----------------------|----------------------------------------------------|------------|
+| Alice  | Python|Java          | Python Basics|Advanced Python|Java Fundamentals | 3          |
+| Bob    | Python|SQL           | Data Science with Python|SQL for Data Analysis | 2          |
+| Carol  | Java|SQL             | Java Programming Basics|Advanced SQL Techniques | 4          |
+
+### Data Usage
+
+- **Skill Search**: Users input a skill to search for candidates who possess that skill.
+- **Ranking**: Candidates are ranked based on the number of courses containing the specified skill and their years of experience.
+- **Filtering**: Only candidates who have the searched skill are considered for ranking.
+
+This dataset is crucial for evaluating and ranking candidates effectively based on their skills and educational background. Make sure to update the dataset regularly to maintain the accuracy of the rankings.
+
 
 
