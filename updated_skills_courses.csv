@@ -1,0 +1,51 @@
+Name,Skills,Courses,Experience
+Alice,Python|Java,Python 101|Advanced Python|Java Basics,3
+Bob,Python,Python 101|Data Science with Python,0
+Charlie,Java|C++,Advanced Java|C++ Basics,2
+David,Python|JavaScript,Python for Data Analysis|JavaScript Fundamentals,5
+Eve,Python|Java|C++,Python for Beginners|Advanced Java|C++ Masterclass,1
+Hannah,Python|C++,C++ Masterclass|Python for Beginners,8
+Zack,Python|Java,C++ Masterclass|Python for Beginners,9
+Oscar,Java|C++,Java Basics|JavaScript Advanced,5
+Xena,Python,Python for Data Analysis|JavaScript Fundamentals,1
+Hannah,Python|JavaScript,Java Basics|JavaScript Advanced,8
+Xena,Python,Python for Beginners|Advanced Java|C++ Masterclass,6
+Frank,Python,Java Basics|JavaScript Advanced,9
+Jack,Python|Java|C++,Advanced Java|C++ Basics,6
+Leo,Python|Java,C++ Masterclass|Python for Beginners,9
+Paul,Python|Java,Python for Beginners|Advanced Java|C++ Masterclass,9
+Hannah,JavaScript,Python 101|Advanced Python|Java Basics,6
+Xena,Python|C++,Java Basics|JavaScript Advanced,0
+Ian,Python|Java|C++,Java Basics|JavaScript Advanced,2
+Ian,Java|C++,Python for Beginners|Advanced Java|C++ Masterclass,9
+Grace,JavaScript,C++ Masterclass|Python for Beginners,3
+Tina,Python,Python for Data Analysis|JavaScript Fundamentals,7
+Sam,Python,Python for Data Analysis|JavaScript Fundamentals,5
+Tina,Python|Java|C++,Python 101|Data Science with Python,2
+Jack,JavaScript,Advanced Java|C++ Basics,6
+Leo,Python|C++,Advanced Java|C++ Basics,4
+Frank,Java|C++,Python 101|Data Science with Python,1
+Zack,Python|JavaScript,Java Basics|JavaScript Advanced,6
+Paul,JavaScript|C++,Python for Beginners|Advanced Java|C++ Masterclass,7
+Vera,Java|C++,C++ Masterclass|Python for Beginners,0
+Paul,Python|Java|C++,Python 101|Advanced Python|Java Basics,3
+Xena,Python|JavaScript,Python 101|Data Science with Python,10
+Karen,JavaScript|C++,Python 101|Data Science with Python,9
+Tina,Python,C++ Masterclass|Python for Beginners,4
+Leo,Python|JavaScript,Data Science with Python|Java Basics,8
+Frank,Python|Java,Python for Beginners|Advanced Java|C++ Masterclass,7
+Oscar,Java|C++,Data Science with Python|Java Basics,10
+Jack,Python|Java,Java Basics|JavaScript Advanced,2
+Hannah,Python|Java,Advanced Java|C++ Basics,5
+Oscar,JavaScript,Data Science with Python|Java Basics,1
+Hannah,Python|Java|C++,Java Basics|JavaScript Advanced,9
+Ian,Python|C++,Python for Data Analysis|JavaScript Fundamentals,4
+Oscar,Python|C++,Data Science with Python|Java Basics,0
+Uma,Python|Java|C++,Python 101|Advanced Python|Java Basics,0
+Grace,Python,Advanced Java|C++ Basics,0
+Ian,Python|JavaScript,C++ Masterclass|Python for Beginners,8
+Walt,JavaScript|C++,Advanced Java|C++ Basics,7
+Leo,JavaScript,C++ Masterclass|Python for Beginners,1
+Quinn,Python|JavaScript,Data Science with Python|Java Basics,5
+Zack,Python|Java,Advanced Java|C++ Basics,7
+Uma,JavaScript,Java Basics|JavaScript Advanced,6
